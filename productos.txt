@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Helado",
+		"price": 500,
+		"thumbnail": "url1",
+		"id": 1
+	},
+	{
+		"title": "Planta",
+		"price": 350,
+		"thumbnail": "url2",
+		"id": 2
+	},
+	{
+		"title": "Pizza",
+		"price": 250,
+		"thumbnail": "url3",
+		"id": 3
+	},
+	{
+		"title": "Yerba",
+		"price": 485,
+		"thumbnail": "url4",
+		"id": 4
+	},
+	{
+		"title": "Helado",
+		"price": 500,
+		"thumbnail": "url1",
+		"id": 5
+	},
+	{
+		"title": "Planta",
+		"price": 350,
+		"thumbnail": "url2",
+		"id": 6
+	},
+	{
+		"title": "Pizza",
+		"price": 250,
+		"thumbnail": "url3",
+		"id": 7
+	},
+	{
+		"title": "Yerba",
+		"price": 485,
+		"thumbnail": "url4",
+		"id": 8
+	}
+]
