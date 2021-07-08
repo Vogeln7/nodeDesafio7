@@ -1,0 +1,23 @@
+{
+  "name": "nodedesafio7",
+  "version": "1.0.0",
+  "description": "Desafio 7 (servidor con express)\r # enunciado\r  Formato: link a un repositorio en Github con el proyecto cargado\r     Sugerencia: no incluir los node_modules",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vogeln7/nodeDesafio7.git"
+  },
+  "author": "vn7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vogeln7/nodeDesafio7/issues"
+  },
+  "homepage": "https://github.com/Vogeln7/nodeDesafio7#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
